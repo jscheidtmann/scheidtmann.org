@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Willkommen auf Scheidtmann.org
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hier gibt es hauptsächlich Astronomie Zeugs.
 
-## Commands
+## License
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-## Project layout
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
