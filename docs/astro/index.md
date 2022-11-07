@@ -41,18 +41,9 @@ Die Vergrößerung die ein Okular erzeugt, berechnet sich zu Brennweite / Okular
 
 Barlow-Linsen sind Linsengruppen, die die Brennweite des Teleskops um einen Faktor von 1.5x bis 5x verlängern, je nach Linse. Wenn man diese nun auf seine Okulare abstimmt, kann man mit ihrer Hilfe Zwischenbrennweiten erreichen. Man verdoppelt sozusagen seinen Satz von Okularen, durch den gemeinsamen Einsatz mit einer Barlow-Linse.
 
-## Sonnenbeobachtung
-
-Zur Sonnenbeobachtung sind Schutzmaßnahmen *zwingend* *erforderlich*. Wenn man versucht länger ungeschützt in die Sonne zu blicken, kann man erblinden. Wenn man dies mit einem Teleskop ungeschützt versucht, könnten auch noch unschöne Brandflecken dazu kommen. Also immer nur geschützt in die Sonne gucken. 
-
-
-
-
-
 *[BLZ]: Belichtungszeit
 *[Gx]: Galaxie
 *[Gxn]: Galaxien
 *[UWA]: Ultra Wide Angle, Ultra-Weitwinkel
 *[Astrocam]: Kamera, die speziell für Astrofotografie hergestellt wurde, mit gutem Rauschverhalten, meist gekühlt. Farbkamera oder Monocam.
 *[Monocam]: Schwarz-Weiß-Kamera ohne eingebaute Farbfilter, die speziell für Astrofotografie hergestellt wurde, mit gutem Rauschverhalten. Erzeugt nur in Zusammenarbeit mit einem Filterrad und Filtern farbige Bilder.
-
