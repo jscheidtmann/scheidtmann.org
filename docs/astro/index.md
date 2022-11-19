@@ -37,7 +37,7 @@ Bei den meisten Kauf-Teleskopen sind zwei Okulare dabei: Ein Übersichtsokular (
 
 Bei der Auswahl der Okulare gibt es neben der [Qualität](#okulare-qualität-der) auch noch die "Förderliche Vergrößerung" und die Existenz von Barlow-Linsen zu beachten. 
 
-Die Vergrößerung die ein Okular erzeugt, berechnet sich zu Brennweite / Okularbrennweite. Wenn diese nun größer wird als 2x die Öffnung der Teleskops in mm (= förderliche Vergrößerung), dann wird das Bild nicht schärfer, sondern nur matschiger und dunkler. Also sollte man als kleinste Brennweite für ein Okular solche eine Brennweite wählen, dass man ungefähr die förderliche Vergrößerung trifft. 
+Die Vergrößerung die ein Okular erzeugt, berechnet sich zu Brennweite / Okularbrennweite. Wenn diese nun größer wird als 2x die Öffnung der Teleskops in mm (= förderliche Vergrößerung), dann wird das Bild nicht schärfer, sondern nur matschiger und dunkler. Also sollte man als kleinste Brennweite für ein Okular solch eine Brennweite wählen, dass man ungefähr die förderliche Vergrößerung trifft. 
 
 Barlow-Linsen sind Linsengruppen, die die Brennweite des Teleskops um einen Faktor von 1.5x bis 5x verlängern, je nach Linse. Wenn man diese nun auf seine Okulare abstimmt, kann man mit ihrer Hilfe Zwischenbrennweiten erreichen. Man verdoppelt sozusagen seinen Satz von Okularen, durch den gemeinsamen Einsatz mit einer Barlow-Linse.
 
@@ -46,4 +46,4 @@ Barlow-Linsen sind Linsengruppen, die die Brennweite des Teleskops um einen Fakt
 *[Gxn]: Galaxien
 *[UWA]: Ultra Wide Angle, Ultra-Weitwinkel
 *[Astrocam]: Kamera, die speziell für Astrofotografie hergestellt wurde, mit gutem Rauschverhalten, meist gekühlt. Farbkamera oder Monocam.
-*[Monocam]: Schwarz-Weiß-Kamera ohne eingebaute Farbfilter, die speziell für Astrofotografie hergestellt wurde, mit gutem Rauschverhalten. Erzeugt nur in Zusammenarbeit mit einem Filterrad und Filtern farbige Bilder.
+*[Monocam]: Schwarz-Weiß-Kamera ohne eingebaute Farbfilter, die speziell für Astrofotografie hergestellt wurde, mit gutem Rauschverhalten. Erzeugt nur in Zusammenarbeit mit einem Filterrad und Filtern farbige Bilder (die Pixel sind über den gesamten Wellenlängenbereich empfindlich).
