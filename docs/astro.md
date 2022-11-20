@@ -1,4 +1,4 @@
-# Fragen und Antworten zur beobachtenden Astronomie 
+# Astronomie 
 
 ## Werdegang eines Astrofotografen
 

@@ -1,5 +1,7 @@
 # Sonnenbeobachtung
 
+
+
 Zur Sonnenbeobachtung sind Schutzmaßnahmen **zwingend* *erforderlich**. Wenn man versucht länger ungeschützt in die Sonne zu blicken, kann man erblinden. Wenn man dies mit einem Teleskop ungeschützt versucht, könnten neben Blindheit auch noch unschöne Brandflecken dazu kommen. Also immer nur geschützt in die Sonne gucken. 
 
 Um die Aktitvät der Sonnen zu beobachten gibt es im wesentlichen 5 verschiedene Möglichkeiten:

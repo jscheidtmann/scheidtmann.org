@@ -1,8 +1,12 @@
-# Willkommen auf Scheidtmann.org
+# Überblick
 
-Hier gibt es hauptsächlich Astronomie Zeugs.
+Willkommen! Hier gibt es hauptsächlich Astronomie Zeugs.
 
-## License
+* [Allgemeines zur Astronomie](astro.md)
+* [Überblick zur Planetenbeobachtung](planeten.md)
+* [Überblick zur Sonnenbeobachtung](sonnenbeobachtung.md)
+
+## Lizenz / License
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
